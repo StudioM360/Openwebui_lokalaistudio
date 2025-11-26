@@ -1,2 +1,3 @@
 # Openwebui_lokalaistudio
-Eine lokale AI Sammlung und allrounder assistent fr den 
+Eine lokale AI Sammlung und allrounder assistent für den H
+omeoffice.
